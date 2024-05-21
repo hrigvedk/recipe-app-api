@@ -137,7 +137,6 @@ Secrets:
 
 ### GitLab CI/CD Variables
 
-This section lists the GitLab CI/CD variables which must be configured to run jobs.
 
 > Note: This is only applicable if you are using GitLab CI/CD. If you are using GitHub Actions, see [#github-actions-variables](GitHub Actions Variables) above.
 
